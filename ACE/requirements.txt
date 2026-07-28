@@ -1,0 +1,17 @@
+SpeechRecognition
+pyttsx3
+requests
+pyautogui
+keyboard
+psutil
+googletrans==4.0.0rc1
+python-dotenv
+pycaw
+comtypes
+pygame
+opencv-python
+pillow
+pywhatkit
+wikipedia
+pyjokes
+pyaudio
